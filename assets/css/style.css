@@ -1,0 +1,13 @@
+        /* Estilos adicionais */
+
+        #etapas .active {
+            font-weight: bold;
+            color: blue;
+        }
+            /* Estilos adicionais */
+    .screen {
+        display: block !important;
+    }
+    .hide {
+        display: none !important;
+    }
