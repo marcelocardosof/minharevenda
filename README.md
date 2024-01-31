@@ -7,9 +7,13 @@ Você envia o modelo em .zip (zipa todo o diretorio raiz de um site wordpress, t
 
 Páginas que devem ser criadas:
 Página que lista os modelos no frontend: [modelosfront]
+
 Página Área do Cliente usar o shortcode [area_do_cliente]
+
 Se quiser disponibilizar o formulário de envio do modelo use o shortcode [minharevenda-envio]
+
 Página de criação: [minharevenda]
+
 
 Por favor, dê os créditos em qualquer modificação.
 
